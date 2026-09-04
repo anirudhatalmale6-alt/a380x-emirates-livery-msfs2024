@@ -1,0 +1,54 @@
+{
+  "content": [
+    {
+      "path": "SimObjects/AirPlanes/FlyByWire_A380_842_EK/TEXTURE.EK/A380X_FUSE1_ALBD.PNG.DDS",
+      "size": 11184928,
+      "date": 134330075872702192
+    },
+    {
+      "path": "SimObjects/AirPlanes/FlyByWire_A380_842_EK/TEXTURE.EK/A380X_FUSE2_ALBD.PNG.DDS",
+      "size": 11184928,
+      "date": 134330075885542160
+    },
+    {
+      "path": "SimObjects/AirPlanes/FlyByWire_A380_842_EK/TEXTURE.EK/A380X_FUSE3_ALBD.PNG.DDS",
+      "size": 11184928,
+      "date": 134330075898392128
+    },
+    {
+      "path": "SimObjects/AirPlanes/FlyByWire_A380_842_EK/TEXTURE.EK/A380X_FUSE4_ALBD.PNG.DDS",
+      "size": 11184928,
+      "date": 134330075911752096
+    },
+    {
+      "path": "SimObjects/AirPlanes/FlyByWire_A380_842_EK/TEXTURE.EK/A380X_FUSE5_ALBD.PNG.DDS",
+      "size": 11184928,
+      "date": 134330075924602064
+    },
+    {
+      "path": "SimObjects/AirPlanes/FlyByWire_A380_842_EK/TEXTURE.EK/A380_EXTERIOR_ENG_LH_ALBD.PNG.DDS",
+      "size": 11184928,
+      "date": 134330075937502048
+    },
+    {
+      "path": "SimObjects/AirPlanes/FlyByWire_A380_842_EK/TEXTURE.EK/A380_EXTERIOR_ENG_RH_ALBD.PNG.DDS",
+      "size": 11184928,
+      "date": 134330075950642000
+    },
+    {
+      "path": "SimObjects/AirPlanes/FlyByWire_A380_842_EK/TEXTURE.EK/A380_EXTERIOR_WINGFENCE_ALBD.PNG.DDS",
+      "size": 11184928,
+      "date": 134330075963691984
+    },
+    {
+      "path": "SimObjects/AirPlanes/FlyByWire_A380_842_EK/TEXTURE.EK/texture.cfg",
+      "size": 108,
+      "date": 134330075963921968
+    },
+    {
+      "path": "SimObjects/AirPlanes/FlyByWire_A380_842_EK/aircraft.cfg",
+      "size": 847,
+      "date": 134330075963931968
+    }
+  ]
+}

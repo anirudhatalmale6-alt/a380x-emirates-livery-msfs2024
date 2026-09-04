@@ -1,0 +1,11 @@
+{
+  "_comment": "Maps paintkit material -> the DDS filename the A380X model asks for. These are best-guess names taken from the paintkit material names; correct them from a listing of the aircraft's own TEXTURE folder and rebuild. Nothing else in the package needs to change.",
+  "A380X_FUSE1": "A380X_FUSE1_ALBD.PNG.DDS",
+  "A380X_FUSE2": "A380X_FUSE2_ALBD.PNG.DDS",
+  "A380X_FUSE3": "A380X_FUSE3_ALBD.PNG.DDS",
+  "A380X_FUSE4": "A380X_FUSE4_ALBD.PNG.DDS",
+  "A380X_FUSE5": "A380X_FUSE5_ALBD.PNG.DDS",
+  "A380_EXTERIOR_ENG_LH": "A380_EXTERIOR_ENG_LH_ALBD.PNG.DDS",
+  "A380_EXTERIOR_ENG_RH": "A380_EXTERIOR_ENG_RH_ALBD.PNG.DDS",
+  "A380_EXTERIOR_WINGFENCE": "A380_EXTERIOR_WINGFENCE_ALBD.PNG.DDS"
+}
